@@ -1,3 +1,8 @@
 i started by a code to rotate a point and after that i creat a sircle # and know i will rotate it
 so just saying i added a angle_x and y and it finaly rotate 
 i crated a circle big and samll and fill betwin them
+if u dont have make
+
+use in cmd :
+	gcc main.c src\draw.c src\rotation.c -Iincludes -lm -o donut.exe
+	donut.exe
