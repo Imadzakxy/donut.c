@@ -6,7 +6,7 @@ Le programme calcule la position et la luminosité de chaque point de la surface
 ---
 
 ## 📁 Structure du projet
-
+.
 ├── include/
 │ ├── draw.h # Fonctions d'affichage et de gestion du tampon ASCII
 │ └── rotation.h # Fonctions de calcul de rotation et formules 3D
